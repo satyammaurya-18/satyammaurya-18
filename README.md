@@ -8,7 +8,7 @@
 
 - I’m currently learning **CyberSecurity Tools**
 
-- All of my projects are available at LinkedIn [www.linkedin.com/in/satyammaurya18](satyammaurya18)
+- All of my projects are available at LinkedIn [satyammaurya18](www.linkedin.com/in/satyammaurya18)
 
 - All of my projects are available at Github [satyammaurya-18](satyammaurya-18)
 
