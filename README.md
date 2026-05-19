@@ -1,5 +1,5 @@
 ![logo](https://github.com/satyammaurya-18/satyammaurya-18/blob/main/Picsart_26-05-18_18-58-11-302.jpg.jpeg)
-<h1 align="center">Hi 👋, I'm Satyam Maurya</h1>
+<h1 align="center">Hi , I'm Satyam Maurya</h1>
 <h3 align="center">Eager to learn new skills in cybersecurity, web development, and AI prompting, passionate about building projects.</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -8,7 +8,7 @@
 
 - I’m currently learning **CyberSecurity Tools**
 
-- All of my projects are available at LinkedIn [www.linkedin.com/in/satyam-maurya-2b5b8b235](www.linkedin.com/in/satyam-maurya-2b5b8b235)
+- All of my projects are available at LinkedIn [www.linkedin.com/in/satyammaurya18](satyammaurya18)
 
 - All of my projects are available at Github [satyammaurya-18](satyammaurya-18)
 
