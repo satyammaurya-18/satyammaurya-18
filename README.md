@@ -1,24 +1,131 @@
 ![logo](https://github.com/satyammaurya-18/satyammaurya-18/blob/main/Picsart_26-05-18_18-58-11-302.jpg.jpeg)
-<h1 align="center">Hi , I'm Satyam Maurya</h1>
-<h3 align="center">Eager to learn new skills in cybersecurity, web development, and AI prompting, passionate about building projects.</h3>
+<h1 align="center">Hi 👋, I'm Satyam Maurya</h1>
+<h3 align="center">BCA Student at Panjab University | Web Developer | Cybersecurity Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyammaurya-18&label=Profile%20views&color=0e75b6&style=flat" alt="satyammaurya-18" /> </p>
-
-- I’m currently learning **CyberSecurity Tools**
-
-- All of my projects are available at LinkedIn [satyammaurya18](www.linkedin.com/in/satyammaurya18)
-
-- All of my projects are available at Github [satyammaurya-18](satyammaurya-18)
-
-- 📫 How to reach me **satyammaurya9b45@gmail.com**
-
-<p align="left">
+<p align="center">
+  <a href="https://github.com/satyammaurya18">
+    <img src="https://komarev.com/ghpvc/?username=satyammaurya18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyammaurya-18&" alt="satyammaurya-18" /></p>
+🎓 Pursuing **Bachelor's of Computer Application** at **PGGC-11, Panjab University**  
+💻 Passionate about **Web Development, AI, and Cybersecurity**  
+🛡️ Completed Cybersecurity Internship at **Inphora Pvt. Ltd.**  
+📚 Currently learning **AI-powered development & Cybersecurity tools**  
+⚡ Love building responsive websites and practical projects  
+🎯 Goal: Become a skilled **Software Engineer & Cybersecurity Professional**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔐 Cybersecurity & Tools
+- Vulnerability Assessment
+- Ethical Hacking Basics
+- Network Security Fundamentals
+- Security Awareness
+- AI Prompt Engineering
+
+---
+
+## 💼 Experience
+
+### 🔹 Cybersecurity Intern — Inphora Pvt. Ltd.
+📅 June 2026 – December 2026
+
+- Completed a 45-day cybersecurity training program
+- Learned ethical hacking, network security, and cyber threat analysis
+- Worked with vulnerability assessment and security tools
+- Improved understanding of data protection and incident response
+- Learned about phishing, malware, and social engineering attacks
+
+---
+
+## 🏆 Achievements
+
+🥇 **1st Prize – Inter-University Competition**  
+📍 Algo Arena 2k26 by Panjab University
+
+🥇 **1st Prize – Inter-College Competition**  
+📍 Tech Beats 2k26 by SGGS College
+
+🥉 **3rd Prize – Inter-College Competition**  
+📍 iTech Fiesta by MCM College
+
+---
+
+## 📂 Projects
+
+### 🌍 Digital World
+A responsive educational website developed using AI-assisted tools focusing on modern UI/UX and web structure.
+
+### 🛒 VEVOR
+An Amazon-inspired e-commerce website with responsive layouts, navigation, and AI-generated project content.
+
+### 📖 Contact Book
+A Python-based contact management system supporting:
+- Add Contacts
+- Search Contacts
+- Update Contacts
+- Delete Contacts
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/satyammaurya18" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="mailto:satyammaurya845@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
+</a>
+</p>
+
+📧 Email: **satyammaurya845@gmail.com**  
+📱 Phone: **+91 98770 84437**  
+📍 Chandigarh, India
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyammaurya18&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyammaurya18&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyammaurya18&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+---
+
+## ✨ Quote
+
+> “Consistency and learning are the keys to success.”
+
+---
