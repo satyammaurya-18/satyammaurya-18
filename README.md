@@ -1,5 +1,17 @@
 ![logo](https://github.com/satyammaurya-18/satyammaurya-18/blob/main/Picsart_26-05-18_18-58-11-302.jpg.jpeg)
-<h1 align="center">Hi 👋, I'm Satyam Maurya</h1>
+<h1 align="center">Hi ## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyammaurya18&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=satyammaurya18&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyammaurya18&layout=compact&theme=tokyonight&hide_border=true" />
+</p>, I'm Satyam Maurya</h1>
 <h3 align="center">BCA Student at Panjab University | Web Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
@@ -10,7 +22,7 @@
 
 ---
 
-## 🚀 About Me
+## 🔥 About Me
 
 🎓 Pursuing **Bachelor's of Computer Application** at **PGGC-11, Panjab University**  
 💻 Passionate about **Web Development, AI, and Cybersecurity**  
@@ -111,15 +123,15 @@ A Python-based contact management system supporting:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyammaurya18&show_icons=true&theme=tokyonight" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyammaurya18&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyammaurya18&theme=tokyonight" alt="streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=satyammaurya18&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyammaurya18&layout=compact&theme=tokyonight" alt="languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyammaurya18&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
