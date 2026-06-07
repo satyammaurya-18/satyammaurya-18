@@ -135,15 +135,12 @@ A Python-based contact management system supporting:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyammaurya-18&theme=tokyonight" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyammaurya-18&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satyammaurya-18&layout=compact&theme=matrix&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=satyammaurya-18&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="25"> Quote
