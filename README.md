@@ -139,8 +139,9 @@ A Python-based contact management system supporting:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=satyammaurya-18&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=satyammaurya-18&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="25"> Quote
